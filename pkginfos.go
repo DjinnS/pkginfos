@@ -2,7 +2,7 @@
 // Get information from packages installed on the system
 //
 
-package packages
+package pkginfos
 
 import (
 
